@@ -1,0 +1,8 @@
+.carousel-c {
+    height: 512px;
+}
+
+.img-c {
+    height: 100%;
+    object-fit: cover;
+}

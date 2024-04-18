@@ -1,0 +1,35 @@
+.navbar {
+    background-color: #001739;
+}
+
+@media (max-width: 767px) {
+    .logo-c {
+        width: 60%;
+        height: auto;
+    }
+}
+
+@media (min-width: 768px) {
+    .logo-c {
+        width: 20%;
+        height: auto;
+    }
+}
+
+.nav-link-c {
+    color: white;
+}
+  
+/* visited link */
+.active-c {
+    color: goldenrod;
+    text-decoration: underline;
+}
+
+.nav-link-c:hover {
+    color: gold;
+}
+
+.nav-link-c:active {
+    color: goldenrod;
+}
